@@ -35,6 +35,7 @@ const initGame = () => {
 }
 initGame();
 
+
 const checkWord = () => {
     let userWord = inputField.value.toLowerCase();
     if(!userWord) return alert("Please enter the word to check!");
