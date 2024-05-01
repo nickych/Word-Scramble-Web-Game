@@ -97,7 +97,6 @@ body{
 .buttons .check-word:hover{
   background: #2c52ed;
 }
-
 @media screen and (max-width: 470px) {
   .container h2{
     font-size: 22px;
