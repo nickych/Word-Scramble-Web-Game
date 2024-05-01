@@ -7,6 +7,7 @@ checkBtn = document.querySelector(".check-word");
 
 let correctWord, timer;
 
+
 const initTimer = maxTime => {
     clearInterval(timer);
     timer = setInterval(() => {
