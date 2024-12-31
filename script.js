@@ -44,6 +44,5 @@ const checkWord = () => {
     alert(`Congrats! ${correctWord.toUpperCase()} is the correct word`);
     initGame();
 }
-
 refreshBtn.addEventListener("click", initGame);
 checkBtn.addEventListener("click", checkWord);
