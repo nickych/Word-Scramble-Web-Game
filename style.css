@@ -32,6 +32,7 @@ body{
 .container .content{
   margin: 25px 20px 35px;
 }
+
 .content .word{
   user-select: none;
   font-size: 33px;
