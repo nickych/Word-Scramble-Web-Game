@@ -66,6 +66,7 @@ body{
   border-radius: 5px;
   border: 1px solid #bfbfbf;
 }
+
 .content input:focus{
   box-shadow: 0px 2px 4px rgba(0,0,0,0.08);
 }
