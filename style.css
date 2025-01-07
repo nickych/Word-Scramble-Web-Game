@@ -70,6 +70,7 @@ body{
 .content input:focus{
   box-shadow: 0px 2px 4px rgba(0,0,0,0.08);
 }
+
 .content input::placeholder{
   color: #aaa;
 }
