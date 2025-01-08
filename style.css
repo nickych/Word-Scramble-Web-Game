@@ -74,6 +74,7 @@ body{
 .content input::placeholder{
   color: #aaa;
 }
+
 .content input:focus::placeholder{
   color: #bfbfbf;
 }
