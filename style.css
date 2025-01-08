@@ -99,6 +99,7 @@ body{
 .buttons button:active{
   transform: scale(0.97);
 }
+
 .buttons .refresh-word{
   background: #6C757D;
 }
