@@ -78,6 +78,7 @@ body{
 .content input:focus::placeholder{
   color: #bfbfbf;
 }
+
 .content .buttons{
   display: flex;
   margin-top: 20px;
